@@ -34,6 +34,10 @@ These puzzles more or less conform to the regular connections style
 
 [Be careful!](https://connectionsplus.io/game/93zAZx)
 
+[Nameless I](https://connectionsplus.io/game/kdym0C)
+
+[Nameless II](https://connectionsplus.io/game/KNUMzJ)
+
 
 ## One is not like the other
 
@@ -48,6 +52,10 @@ These puzzles follow a pattern where three elements of a category fit, and the f
 [One of these things is not like the other IV](https://connectionsplus.io/game/8W7aJr)
 
 [One of these things is not like the other V](https://connectionsplus.io/game/mlWk1f)
+
+[One of these things is not like the other VI](https://connectionsplus.io/game/nPiLXM)
+
+[One of these things is not like the other VII](https://connectionsplus.io/game/9VKBMB)
 
 [One of these things is not like the other (homophone edition)](https://connectionsplus.io/game/oOs5Vz)
 
