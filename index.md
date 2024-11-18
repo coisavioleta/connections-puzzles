@@ -38,8 +38,13 @@ These puzzles more or less conform to the regular connections style
 
 [Nameless II](https://connectionsplus.io/game/KNUMzJ)
 
+[What's cooking?](https://connectionsplus.io/game/eqjjlV)
 
-## One is not like the other
+[Colourful](https://connectionsplus.io/game/sZgpNX)
+
+[Nameless III](https://connectionsplus.io/game/4gNkmF)
+
+## One of these things is not like the other
 
 These puzzles follow a pattern where three elements of a category fit, and the fourth is a different sense of the same category name. Some people really like them and others don't. 
 
@@ -56,6 +61,8 @@ These puzzles follow a pattern where three elements of a category fit, and the f
 [One of these things is not like the other VI](https://connectionsplus.io/game/nPiLXM)
 
 [One of these things is not like the other VII](https://connectionsplus.io/game/9VKBMB)
+
+[One of these things is not like the other VIII](https://connectionsplus.io/game/iYva26)
 
 [One of these things is not like the other (homophone edition)](https://connectionsplus.io/game/oOs5Vz)
 
