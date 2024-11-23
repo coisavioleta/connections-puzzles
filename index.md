@@ -10,6 +10,8 @@ These puzzles more or less conform to the regular connections style
 
 [Unlock this one!](https://connectionsplus.io/game/pGkpfU)
 
+[For the birds!](https://connectionsplus.io/game/hpOrDN)
+
 [Homage to Feist](https://connectionsplus.io/game/nIWzyG)
 
 [Not much in common](https://connectionsplus.io/game/AwhPpF)
@@ -27,8 +29,6 @@ These puzzles more or less conform to the regular connections style
 [Miaow!](https://connectionsplus.io/game/GQZMqD)
 
 [It's instrumental](https://connectionsplus.io/game/zk1DyN)
-
-[Conjunction junction](https://connectionsplus.io/game/r7Zl2G)
 
 [Olympic fun](https://connectionsplus.io/game/oKivoo)
 
@@ -88,4 +88,6 @@ This puzzle requires lots of linguistic knowledge
 
 [That's not what I meant!](https://connectionsplus.io/game/ONkUjc)
 
+In this puzzle, each of the clues in a category is linked to the other clues
 
+[Conjunction junction](https://connectionsplus.io/game/r7Zl2G)
