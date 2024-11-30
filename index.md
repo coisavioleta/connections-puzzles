@@ -44,6 +44,16 @@ These puzzles more or less conform to the regular connections style
 
 [Nameless III](https://connectionsplus.io/game/4gNkmF)
 
+[Nameless IV](https://connectionsplus.io/game/wFvFcP)
+
+[Nameless V](https://connectionsplus.io/game/mjdMSv)
+
+[er...](https://connectionsplus.io/game/tl6DMY)
+
+[Let it snow!](https://connectionsplus.io/game/sTcwnv)
+
+[Nameless VI](https://connectionsplus.io/game/FGKDYN)
+
 ## One of these things is not like the other
 
 These puzzles follow a pattern where three elements of a category fit, and the fourth is a different sense of the same category name. Some people really like them and others don't. 
