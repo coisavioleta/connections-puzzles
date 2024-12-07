@@ -54,6 +54,14 @@ These puzzles more or less conform to the regular connections style
 
 [Nameless VI](https://connectionsplus.io/game/FGKDYN)
 
+[I smell a rat!](https://connectionsplus.io/game/52FyZw)
+
+[Nameless VII](https://connectionsplus.io/game/P3KZOX)
+
+[Nameless VIII](https://connectionsplus.io/game/p0aCef)
+
+[er... redux](https://connectionsplus.io/game/VV3lf8)
+
 ## One of these things is not like the other
 
 These puzzles follow a pattern where three elements of a category fit, and the fourth is a different sense of the same category name. Some people really like them and others don't. 
