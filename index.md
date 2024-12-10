@@ -62,6 +62,12 @@ These puzzles more or less conform to the regular connections style
 
 [er... redux](https://connectionsplus.io/game/VV3lf8)
 
+[Nameless IX](https://connectionsplus.io/game/qtzfYt)
+
+[4x4](https://connectionsplus.io/game/Eo3xQP)
+
+[4x4 II](https://connectionsplus.io/game/H9MYWW)
+
 ## One of these things is not like the other
 
 These puzzles follow a pattern where three elements of a category fit, and the fourth is a different sense of the same category name. Some people really like them and others don't. 
