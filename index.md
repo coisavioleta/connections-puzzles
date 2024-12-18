@@ -68,6 +68,23 @@ These puzzles more or less conform to the regular connections style
 
 [4x4 II](https://connectionsplus.io/game/H9MYWW)
 
+[Linguists beware!](https://connectionsplus.io/game/k7v7nT)
+
+[Linguists, I dare you!](https://connectionsplus.io/game/IK5IQH)
+
+[Nameless X](https://connectionsplus.io/game/aGfHJ6)
+
+[Nameless XI](https://connectionsplus.io/game/g2W4ZQ)
+
+[Nameless XII](https://connectionsplus.io/game/ZDWB30)
+
+[It's algebraic](https://connectionsplus.io/game/b8vjEH)
+
+[Cutesy](https://connectionsplus.io/game/8g4HHz)
+
+[Nameless XIII](https://connectionsplus.io/game/NnrfwP)
+
+
 ## One of these things is not like the other
 
 These puzzles follow a pattern where three elements of a category fit, and the fourth is a different sense of the same category name. Some people really like them and others don't. 
@@ -87,6 +104,10 @@ These puzzles follow a pattern where three elements of a category fit, and the f
 [One of these things is not like the other VII](https://connectionsplus.io/game/9VKBMB)
 
 [One of these things is not like the other VIII](https://connectionsplus.io/game/iYva26)
+
+[One of these things is not like the other IX](https://connectionsplus.io/game/7JcFB7)
+
+[One of these things is not like the other X](https://connectionsplus.io/game/qBwzqm)
 
 [One of these things is not like the other (homophone edition)](https://connectionsplus.io/game/oOs5Vz)
 
