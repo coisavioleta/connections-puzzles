@@ -84,6 +84,24 @@ These puzzles more or less conform to the regular connections style
 
 [Nameless XIII](https://connectionsplus.io/game/NnrfwP)
 
+[Nameless XIV](https://connectionsplus.io/game/KJh9ef)
+
+[Home sweet home](https://connectionsplus.io/game/ZXLoGg)
+
+[Calling the kettle](https://connectionsplus.io/game/QLDipf)
+
+[For the birds II](https://connectionsplus.io/game/OgAoQg)
+
+[It's all purple](https://connectionsplus.io/game/GJgw8Y)
+
+[Nameless XV](https://connectionsplus.io/game/8fS380)
+
+[Brrr!](https://connectionsplus.io/game/trnIT1)
+
+[Nameless XVI](https://connectionsplus.io/game/VUuEcX)
+
+[January 1](https://connectionsplus.io/game/rdRP9P)
+
 
 ## One of these things is not like the other
 
