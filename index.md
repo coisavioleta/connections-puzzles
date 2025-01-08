@@ -102,6 +102,16 @@ These puzzles more or less conform to the regular connections style
 
 [January 1](https://connectionsplus.io/game/rdRP9P)
 
+[Something's fishy](https://connectionsplus.io/game/eYmqah)
+
+[A river runs through it](https://connectionsplus.io/game/EYZe73)
+
+[Where's the queen?](https://connectionsplus.io/game/o2b0qS)
+
+[A puzzle of substance(s)](https://connectionsplus.io/game/OopZLK)
+
+[May the force be with you](https://connectionsplus.io/game/bb9phe)
+
 
 ## One of these things is not like the other
 
@@ -140,6 +150,8 @@ These puzzles follow a pattern where three elements of a category fit, and the f
 [One of these things is not like the other (Tech edition)](https://connectionsplus.io/game/SKxsI8)
 
 [One of these things is not like the other (CanAm edition)](https://connectionsplus.io/game/jxGMjK)
+
+[One of these things is not like the other XI](https://connectionsplus.io/game/HkGpkU)
 
 ## Super niche
 
