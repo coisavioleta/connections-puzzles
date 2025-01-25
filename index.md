@@ -5,13 +5,9 @@
 These puzzles more or less conform to the regular connections style
 
 
-[Eponymous](https://connectionsplus.io/game/QKGNVB) | 
+[Eponymous](https://connectionsplus.io/game/QKGNVB) | [Homophones for all](https://connectionsplus.io/game/77GmqM)
 
-[Homophones for all](https://connectionsplus.io/game/77GmqM)
-
-[Unlock this one!](https://connectionsplus.io/game/pGkpfU)
-
-[For the birds!](https://connectionsplus.io/game/hpOrDN)
+[Unlock this one!](https://connectionsplus.io/game/pGkpfU) | [For the birds!](https://connectionsplus.io/game/hpOrDN)
 
 [Homage to Feist](https://connectionsplus.io/game/nIWzyG)
 
