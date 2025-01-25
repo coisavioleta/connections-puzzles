@@ -112,6 +112,32 @@ These puzzles more or less conform to the regular connections style
 
 [May the force be with you](https://connectionsplus.io/game/bb9phe)
 
+[Tasty!](https://connectionsplus.io/game/gUtLwx)
+
+[Mad at crazy grandfather](https://connectionsplus.io/game/lYMsDY)
+
+[Cutting a rug](https://connectionsplus.io/game/AZShPG)
+
+[Affirmative](https://connectionsplus.io/game/oQDr78)
+
+[Airline Food](https://connectionsplus.io/game/yOdgXk)
+
+[Nameless XVII](https://connectionsplus.io/game/FHeDX8)
+
+[Hardest connections ever: an homage](https://connectionsplus.io/game/uvabXb)
+
+[Noamenclature](https://connectionsplus.io/game/RYqlLW)
+
+[A tangled web](https://connectionsplus.io/game/ZPfDSN)
+
+[One of these things is not like the other (Sports edition)](https://connectionsplus.io/game/RtAGYq)
+
+[Yellow is purple and purple is yellow](https://connectionsplus.io/game/EqMBbS)
+
+[Sizable](https://connectionsplus.io/game/asIXUu)
+
+[Tools](https://connectionsplus.io/game/Qc6XqQ)
+
 
 ## One of these things is not like the other
 
@@ -153,6 +179,18 @@ These puzzles follow a pattern where three elements of a category fit, and the f
 
 [One of these things is not like the other XI](https://connectionsplus.io/game/HkGpkU)
 
+[One of these things is not like the other (Pop star edition)](https://connectionsplus.io/game/vbLix7)
+
+[One of these things is not like the other (Abbr. Ed.)](https://connectionsplus.io/game/mgG31H)
+
+[One of these things is not like the other XII](https://connectionsplus.io/game/rlTYtB)
+
+[One of these things is not like the other XIII](https://connectionsplus.io/game/YXbyqO)
+
+[One of these things is not like the other XIV](https://connectionsplus.io/game/Hoz0Y2)
+
+
+
 ## Super niche
 
 My first puzzle was about women's pro volleyball. If you don't follow it, you will have no chance at this puzzle
@@ -166,3 +204,7 @@ This puzzle requires lots of linguistic knowledge
 In this puzzle, each of the clues in a category is linked to the other clues
 
 [Conjunction junction](https://connectionsplus.io/game/r7Zl2G)
+
+In this puzzle, the clues are in four different languages
+
+[Grimm, but not a fairy tale](https://connectionsplus.io/game/o3jcWU)
