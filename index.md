@@ -4,7 +4,8 @@
 
 These puzzles more or less conform to the regular connections style
 
-[Eponymous](https://connectionsplus.io/game/QKGNVB)
+
+[Eponymous](https://connectionsplus.io/game/QKGNVB) | 
 
 [Homophones for all](https://connectionsplus.io/game/77GmqM)
 
