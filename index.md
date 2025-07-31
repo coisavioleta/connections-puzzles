@@ -130,13 +130,19 @@ These puzzles more or less conform to the regular connections style
 
 [A tangled web](https://connectionsplus.io/game/ZPfDSN)
 
-[One of these things is not like the other (Sports edition)](https://connectionsplus.io/game/RtAGYq)
-
 [Yellow is purple and purple is yellow](https://connectionsplus.io/game/EqMBbS)
 
 [Sizable](https://connectionsplus.io/game/asIXUu)
 
 [Tools](https://connectionsplus.io/game/Qc6XqQ)
+
+[Breakfast time](https://connectionsplus.io/game/gG2VGz)
+
+[Nameless XVIII](https://connectionsplus.io/game/9KuJnb)
+
+[What's in a name II?](https://connectionsplus.io/game/TZ7XvG)
+
+[Topsy turkey](https://connectionsplus.io/game/GLyVxD)
 
 
 ## One of these things is not like the other
@@ -189,7 +195,9 @@ These puzzles follow a pattern where three elements of a category fit, and the f
 
 [One of these things is not like the other XIV](https://connectionsplus.io/game/Hoz0Y2)
 
+[One of these things is not like the other (Sports edition)](https://connectionsplus.io/game/RtAGYq)
 
+[One of these things is not like the other XV](https://connectionsplus.io/game/bYh1hv)
 
 ## Super niche
 
