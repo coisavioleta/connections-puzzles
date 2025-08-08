@@ -98,7 +98,7 @@ These puzzles more or less conform to the regular connections style
 
 [Brrr!](https://connectionsplus.io/game/trnIT1)
 
-[Nameless XVI](https://connectionsplus.io/game/VUuEcX)
+[Nameless XVI](https://connectionsplus.io/game/NWYE8Q)
 
 [January 1](https://connectionsplus.io/game/rdRP9P)
 
@@ -143,6 +143,14 @@ These puzzles more or less conform to the regular connections style
 [What's in a name II?](https://connectionsplus.io/game/TZ7XvG)
 
 [Topsy turkey](https://connectionsplus.io/game/GLyVxD)
+
+[By the sea](https://connectionsplus.io/game/RUfCcH)
+
+[Nameless XIX](https://connectionsplus.io/game/bXcFwg)
+
+[Nameless XX](https://connectionsplus.io/game/Ri4V2M)
+
+[Watch your step](https://connectionsplus.io/game/xMYNHn)
 
 
 ## One of these things is not like the other
