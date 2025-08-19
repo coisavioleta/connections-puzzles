@@ -152,6 +152,12 @@ These puzzles more or less conform to the regular connections style
 
 [Watch your step](https://connectionsplus.io/game/xMYNHn)
 
+[Nameless XXI](https://connectionsplus.io/game/K0f1rn)
+
+[Nameless XXII](https://connectionsplus.io/game/uwx8on)
+
+[Nameless XXIII](https://connectionsplus.io/game/bFUrgN)
+
 
 ## One of these things is not like the other
 
