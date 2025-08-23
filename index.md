@@ -158,6 +158,10 @@ These puzzles more or less conform to the regular connections style
 
 [Nameless XXIII](https://connectionsplus.io/game/bFUrgN)
 
+[Modal madness](https://connectionsplus.io/game/VxhbD1)
+
+[Nameless XXIV](https://connectionsplus.io/game/LUyo9o)
+
 
 ## One of these things is not like the other
 
@@ -212,6 +216,8 @@ These puzzles follow a pattern where three elements of a category fit, and the f
 [One of these things is not like the other (Sports edition)](https://connectionsplus.io/game/RtAGYq)
 
 [One of these things is not like the other XV](https://connectionsplus.io/game/bYh1hv)
+
+[One of these things is not like the other XVI](https://connectionsplus.io/game/VdKb8B)
 
 ## Super niche
 
