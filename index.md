@@ -166,6 +166,12 @@ These puzzles more or less conform to the regular connections style
 
 [Rick roll](https://connectionsplus.io/game/pQ6YdV)
 
+[Flammable](https://connectionsplus.io/game/unG5Qc)
+
+[Nameless XXV](https://connectionsplus.io/game/cA7kUF)
+
+[Nameless XXVI](https://connectionsplus.io/game/C0hytR)
+
 
 ## One of these things is not like the other
 
