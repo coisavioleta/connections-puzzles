@@ -172,6 +172,10 @@ These puzzles more or less conform to the regular connections style
 
 [Nameless XXVI](https://connectionsplus.io/game/C0hytR)
 
+[John le Carré](https://connectionsplus.io/game/yAXWNb)
+
+[Very wordy](https://connectionsplus.io/game/ZWhtXj)
+
 
 ## One of these things is not like the other
 
