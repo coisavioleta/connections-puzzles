@@ -176,6 +176,10 @@ These puzzles more or less conform to the regular connections style
 
 [Very wordy](https://connectionsplus.io/game/ZWhtXj)
 
+[Flipping the bird](https://connectionsplus.io/game/0dXl7h)
+
+[Nameless XXVII](https://connectionsplus.io/game/YDVo8d)
+
 
 ## One of these things is not like the other
 
