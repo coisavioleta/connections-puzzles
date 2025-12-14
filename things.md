@@ -67,3 +67,7 @@ These puzzles follow a pattern where three elements of a category fit, and the f
 [One of these things is not like the other (Alphabet edition)](https://connectionsplus.io/game/xMTChg)
 
 [One of these things is not like the other XX](https://connectionsplus.io/game/vK1Z7R)
+
+[One of these things is not like the other XXI](https://connectionsplus.io/game/4HukUO)
+
+[One of these things is not like the other XXII](https://connectionsplus.io/game/DHElHz)

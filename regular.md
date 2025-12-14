@@ -219,3 +219,15 @@ These puzzles more or less conform to the regular connections style.
 [Nameless XXXVI](https://connectionsplus.io/game/m8HPJ5)
 
 [Nameless XXXVII](https://connectionsplus.io/game/ypg2gx)
+
+[To the stars](https://connectionsplus.io/game/uLdLZ0)
+
+[Nameless XXXVIII](https://connectionsplus.io/game/Zht3Zm)
+
+[Nameless XXXIX](https://connectionsplus.io/game/wiyvPk)
+
+[Ordinal fun](https://connectionsplus.io/game/EpjYKe)
+
+[Airtime](https://connectionsplus.io/game/KVcw7X)
+
+[Fuzzy Wuzzy](https://connectionsplus.io/game/I9Uw7v)
