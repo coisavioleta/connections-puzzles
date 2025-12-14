@@ -1,6 +1,6 @@
 # One of these things is not like the other puzzles
 
-These puzzles follow a pattern where three elements of a category fit, and the fourth is a different sense of the same category name. Some people really like them and others don't. 
+These puzzles follow a pattern where three clues form a category, and the fourth is a different sense of the same category label. Some people really like them and others don't. 
 
 [One of these things is not like the other](https://connectionsplus.io/game/ia43S9)
 
