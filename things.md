@@ -2,9 +2,7 @@
 
 These puzzles follow a pattern where three clues form a category, and the fourth is a different sense of the same category label. Some people really like them and others don't. 
 
-|[One of these things is not like the other](https://connectionsplus.io/game/ia43S9)|
-|[One of these things is not like the other II](https://connectionsplus.io/game/pot9X2)|
-|[One of these things is not like the other III](https://connectionsplus.io/game/zkOyzX)|
+|[One of these things is not like the other](https://connectionsplus.io/game/ia43S9)|[One of these things is not like the other II](https://connectionsplus.io/game/pot9X2)|[One of these things is not like the other III](https://connectionsplus.io/game/zkOyzX)|
 
 [One of these things is not like the other IV](https://connectionsplus.io/game/8W7aJr)
 
